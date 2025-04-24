@@ -21,3 +21,5 @@ GET	/api/books	Obtener todos los libros	—
 POST	/api/books	Crear un nuevo libro	{ "name": "Libro Ejemplo", "author": "Autor Ejemplo" }
 PUT	/api/books/{id}	Actualizar un libro	{ "name": "Nuevo Libro", "author": "Nuevo Autor" }
 DELETE	/api/books/{id}	Eliminar un libro	—
+
+LINK VIDEO DE EXPLICACION: https://www.youtube.com/watch?v=LKgF1OuGerg
